@@ -1,7 +1,7 @@
-package com.example.refinedcalculatorui;
+package com.example;
 
 import javafx.collections.FXCollections;
-import javafx.collections.ObservableList;
+
 import javafx.geometry.Insets;
 import javafx.scene.control.*;
 import javafx.scene.layout.GridPane;

@@ -1,4 +1,4 @@
-package com.example.refinedcalculatorui;
+package com.example;
 
 import javafx.scene.control.Alert;
 import javafx.scene.control.CheckBox;

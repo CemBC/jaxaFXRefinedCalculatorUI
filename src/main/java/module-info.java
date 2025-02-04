@@ -1,8 +1,8 @@
-module com.example.refinedcalculatorui {
+module com.example {
     requires javafx.controls;
     requires javafx.fxml;
 
 
-    opens com.example.refinedcalculatorui to javafx.fxml;
-    exports com.example.refinedcalculatorui;
+    opens com.example to javafx.fxml;
+    exports com.example;
 }
